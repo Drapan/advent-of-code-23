@@ -28,7 +28,7 @@ const findInLine = (line, fromBack) => {
     }
   }
 
-  throw new Error('🤷‍♀️');
+  throw new Error('🤷‍♂️');
 }
 
 const findDirectionless = (character, numbersString, numberStringCurrentCount) => {
